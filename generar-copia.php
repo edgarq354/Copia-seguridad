@@ -4,9 +4,9 @@ include_once 'google-api-php-client--PHP7.4/vendor/autoload.php';
  
 // variables
 $dbhost = 'localhost';
-$dbname = 'bdconvencion';
-$dbuser = 'elio';
-$dbpass = 'Convenio123-';
+$dbname = 'bd';
+$dbuser = 'user';
+$dbpass = 'pass';
 
 $backup_file = $dbname. "-" .date("Y-m-d-H-i-s"). ".sql";
 
