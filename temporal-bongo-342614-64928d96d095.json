@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "temporal-bongo-342614",
+  "private_key_id": "64928d96d095ae1ff3171f82c90e45340dbb58e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4ruhbDLNzFcfJ\n9paPKCgD4ueEMku46Egj8apd4Zxam+gd/wKc6eVa0bQeKxREz1CHQTDD3UQ9uwEy\nV8E2SA09jHUv020kXIl+o+F8nqhAIzHU9lyV3jSmBs8ODEJxDvKHfSF5Uwn20gwe\nV/XAkgcGBupO3jyzWYCjR5emlFWogVjwfhFQzo9Q9tfwhB7lEmkcFEyLZJuU7avT\ncA5LcycIT3TJdCvf/DM8FhkKzJ6L4BMRDj3grXZPBh8+G1vsRWTYtTe+EFifmV+A\nEulLlLVzG8jfqFL6ivqr6h6bkFV4FUXNoWrW/Nw9WZFTvLNieSovuL4labPMOEPQ\n4/LkKSmTAgMBAAECggEAQ/DIdvJhs8U/9er6sVh+/AsFy6qrE6+UFnEJkTb1y5mO\nVzagkfQz1WjO/8guUTAJOnC/jVaBi8oXYxtIb30rLcjVtY3smVNXm5iTU8KUN+Aa\nrXMiVVnk+W0Iz+yvpqLukux0G4tyX3QfVCxcsoamAdAac4ArSXl0Kt0kC3qHVpD5\n7UVKHTuwE2m1oTgeb8AbRo4AGTh3QutlKTRdw3394dpXPwRp+nwuYCGZvXwNMJWk\njMEXUkwehp7HnXebhIrW7X9OcunJX6uuNRE5RPllHVlRESLt0DgLenjZOepF4kvF\nEYrPU0TdrfwaBrGXsIoYAa4jGrNP9DzY/9oLIH7ckQKBgQD1ZAjrXk9vQecGbFwk\nM/bS0DEop2VEUb3r0FkRkPvelU9rh0Ui0MXBK43/5OiCZVL28Q939K1bOljGbq3J\n5EanFVTOZmS5J2LWkZ9sBL0SfAVe0M5ySzElz5yNw/jIuH+lYNRexNh6/g7/ILt/\nHuRnCK+jB0zjMzKVN20uHsTWsQKBgQDAqvd+UTElpJhc7HIZHUqCPKWuKKNjI+CF\ndk7NX2QIk7OvTsqKDlMJXvPoCa+bN6dUg56B7eV6J14FX/4jPpMCVQN99JV/L3Ie\nzhUMHcI5V9jJeqnJzRa3iGkHGDAdUe2wuH0q7TRgc9PHlaLXXSAi9+kOnygcaUuf\nKeykSMFdgwKBgHU1Rcleb6SdnsKDqXMlWuSQypo3cngybvuetZxdWuCTAq9CmjQp\n8fr1Wcr7RE9cJEeNFq1eMhtcACEvplTDczfFSY+Yes2xUVVZkwMeNE0K7em+5IzU\n+3Gq+4T/MOp2rYmJeYaWkSwWA4W61bO/RqssC/BbwU7YGnYJVl3sFmrRAoGAbhaC\neivcYDzvTlFQVKdW9pm+tYfE7BYI6VmTZ2f1Ga2Dw0zLEB1lNvqJdXFrZM5lDzZx\nsJ4FPEoYQAv8g5jymSeIakUB0v2CQLXScuziGK/oUB+Fuqg0LcSE9qfMfkRdA1g3\nNPr6rY4hWW5X8KTmgvSSt2cbnThRHG3xKGHmEw8CgYEA0tT3DqQLQ3oPoyse4vrP\nslm+vU/edmQ7IEC86YWUoO/DqiXpcBLnAU5TilhvY0oNpggm4l6iJ+ShrkyBq/KG\nNGLTd26cbAdFn5pXgEg8oDTr9drVErsL6l0d4SU16pUbOR+T/myqjsWzoe2bfGsJ\n9XQWRtmmi1pUXr4g0inRe00=\n-----END PRIVATE KEY-----\n",
+  "client_email": "convencion@temporal-bongo-342614.iam.gserviceaccount.com",
+  "client_id": "116822491516638027263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/convencion%40temporal-bongo-342614.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
